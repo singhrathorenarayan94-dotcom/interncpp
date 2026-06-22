@@ -1,6 +1,6 @@
-include<iostream>
+#include<iostream>
 using namespace std;
 int main (){
-    cot<<"hello world ";
+    cout<<"hello world ";
     return 0;
 }
