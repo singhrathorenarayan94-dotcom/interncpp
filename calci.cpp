@@ -1,21 +1,21 @@
 #include "calci.h"
 
-int calci::add(int a, int b)
+double calci::add(double a, double b)
 {
     return a + b;
 }
 
-int calci::sub(int a, int b)
+double calci::sub(double a, double b)
 {
     return a - b;
 }
 
-int calci::multi(int a, int b)
+double calci::multi(double a, double b)
 {
     return a * b;
 }
 
-int calci::div(int a, int b)
+double calci::div(double a, double b)
 {
     return a / b;
 }

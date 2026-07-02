@@ -3,10 +3,11 @@
 
 class calci {
 public:
-    int add(int a, int b);
-    int sub(int a, int b);
-    int multi(int a, int b);
-    int div(int a, int b);
+    double add(double a, double b);
+    double sub(double a, double b);
+    double multi(double a, double b);
+    double div(double a, double b);
 };
+
 
 #endif
